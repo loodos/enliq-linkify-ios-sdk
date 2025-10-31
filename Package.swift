@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EIQLinkify",
-            url: "https://github.com/loodos/enliq-linkify-ios-sdk/releases/download/1.0.0/eiqlinkify.xcframework.zip",
-            checksum: "a13205a3a5387baf7b740be22760b8a10de7acc7f87f38dc27601784662e969e"
+            url: "https://github.com/loodos/enliq-linkify-ios-sdk/releases/download/v1.1.6/eiqlinkify.xcframework.zip",
+            checksum: "a3d48a89fb5663ed88bdb56eee731a6164d1031ed99e2bf723b71c6baec616d1"
         )
     ]
 )
